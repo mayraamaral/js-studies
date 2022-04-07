@@ -1,4 +1,4 @@
-# JavaScrit Studies
+# JavaScript Studies
   
 Courses that I'm doing:  
 - Alura JavaScript Path;  
